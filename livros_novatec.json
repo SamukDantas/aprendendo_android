@@ -7,15 +7,25 @@
           "titulo": "NoSQL Essencial",
           "autor": "Pramod J. Sadalage / Martin Fowler",
           "ano": 2013,
-          "paginas": 216,
-          "capa": "https://s3.novatec.com.br/capas/9788575223383.jpg"
+          "paginas": 216
         },
         {
-          "titulo": "Fundamentos de Bancos de Dados com C#",
+          "titulo": "Fundamentos de Bancos de Dados com Kotlin",
           "autor": "Michael Schmalz",
           "ano": 2012,
-          "paginas": 120,
-          "capa": "https://s3.novatec.com.br/capas/9788575223154.jpg"
+          "paginas": 120
+        },
+        {
+          "titulo": "Aprendendo a ganhar dinheiro",
+          "autor": "Desconhecido",
+          "ano": 2022,
+          "paginas": 50
+        },
+        {
+          "titulo": "Programação orientada a objetos",
+          "autor": "Petter Park",
+          "ano": 2018,
+          "paginas": 89
         }
       ]
     }
